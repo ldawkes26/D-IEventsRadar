@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T05:09:53.938850Z",
-  "event_count": 76,
+  "generated_at": "2026-09-14T05:08:55.325425Z",
+  "event_count": 74,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -300,48 +300,6 @@
     }
   ],
   "events": [
-    {
-      "id": "EVT-45AB021B44",
-      "title": "Compliance, governance and innovation: balancing risks and opportunities of doing business in Latin America",
-      "organiser": "International Bar Association",
-      "start": "2026-08-31",
-      "end": "2026-09-02",
-      "city": "São Paulo",
-      "country": "Brazil",
-      "region": "LATAM",
-      "format": "In-person",
-      "topics": [
-        "Compliance",
-        "Enforcement"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Book now",
-      "url": "https://www.ibanet.org/conference-details/CONF2801",
-      "flags": [],
-      "summary": "Conference examining compliance frameworks, governance structures and innovation opportunities while managing regulatory and enforcement risks in Latin American business environments."
-    },
-    {
-      "id": "EVT-6A70CFFDFD",
-      "title": "2026 ABI International Latin America Symposium",
-      "organiser": "American Bankruptcy Institute",
-      "start": "2026-09-02",
-      "end": "2026-09-04",
-      "city": "",
-      "country": "",
-      "region": "LATAM",
-      "format": "In-person",
-      "topics": [
-        "Contentious Insolvency",
-        "Disputes"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "",
-      "url": "https://www.kirkland.com/events/speaking-engagement/2026/09/abi-international-latin-america-symposium",
-      "flags": [],
-      "summary": "The American Bankruptcy Institute's International Latin America Symposium brings together restructuring and insolvency professionals to discuss cross-border issues, insolvency proceedings, and contentious matters in Latin American jurisdictions."
-    },
     {
       "id": "EVT-41067DE169",
       "title": "India ADR Week",
