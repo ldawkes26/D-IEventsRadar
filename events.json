@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T10:24:00.644920Z",
-  "event_count": 68,
+  "generated_at": "2026-09-28T11:26:16.360416Z",
+  "event_count": 64,
   "sources": [
     {
       "name": "Global Investigations Review",
@@ -300,97 +300,6 @@
     }
   ],
   "events": [
-    {
-      "id": "EVT-98C416081E",
-      "title": "NWFF Masterclass - 'Ofcom approach to the Online Safety Act'",
-      "organiser": "North West Fraud Forum",
-      "start": "2026-09-15",
-      "end": "2026-09-15",
-      "city": "Virtual",
-      "country": "",
-      "region": "UK",
-      "format": "Virtual",
-      "topics": [
-        "Fraud",
-        "Financial Crime",
-        "Regulatory Enforcement",
-        "Compliance",
-        "Policy"
-      ],
-      "audience": "Mixed",
-      "cost": "Free",
-      "costDisplay": "Free for NWFF members",
-      "url": "https://northwestfraudforum.co.uk/event-6763131",
-      "flags": [],
-      "summary": "Ofcom officials discuss the regulator's approach to online fraud under the Online Safety Act, covering the Dedicated Reporting Channel Working Group, Fraud Trusted Flaggers, and Ofcom's supervisory role in online safety."
-    },
-    {
-      "id": "EVT-80A4BDD440",
-      "title": "Chief Litigation Officer Summit 2026",
-      "organiser": "Unknown",
-      "start": "2026-09-17",
-      "end": "2026-09-17",
-      "city": "Boston",
-      "country": "USA",
-      "region": "North America",
-      "format": "In-person",
-      "topics": [
-        "Litigation",
-        "Networking"
-      ],
-      "audience": "Senior",
-      "cost": "Invite-only",
-      "costDisplay": "Invitation only",
-      "url": "https://www.cdr-news.com/conferences/chief-litigation-officer-summit-2026-september",
-      "flags": [],
-      "summary": "Senior litigation leaders and solution providers convene for an invitation-only forum focused on litigation leadership and innovation."
-    },
-    {
-      "id": "EVT-B7AED3C958",
-      "title": "17. Compliance Day – Frankfurt",
-      "organiser": "Hogan Lovells",
-      "start": "2026-09-17",
-      "end": "2026-09-17",
-      "city": "Frankfurt",
-      "country": "Germany",
-      "region": "Europe",
-      "format": "In-person",
-      "topics": [
-        "Compliance",
-        "Policy",
-        "Regulatory Enforcement"
-      ],
-      "audience": "Mixed",
-      "cost": "Paid",
-      "costDisplay": "Register",
-      "url": "https://www.hlc.com/de/events/ger_17-compliance-day-frankfurt_sep-17-2026",
-      "flags": [],
-      "summary": "Annual compliance conference covering regulatory enforcement, policy developments, and compliance best practices for German and European businesses."
-    },
-    {
-      "id": "EVT-DED2230069",
-      "title": "China Arbitration Summit",
-      "organiser": "CIETAC",
-      "start": "2026-09-18",
-      "end": "2026-09-18",
-      "city": "Beijing",
-      "country": "China",
-      "region": "APAC",
-      "format": "In-person",
-      "topics": [
-        "Arbitration",
-        "Disputes",
-        "Policy"
-      ],
-      "audience": "Senior",
-      "cost": "Paid",
-      "costDisplay": "Further information",
-      "url": "http://www.chinaarbitrationweek.org/index/activity/detail/id/789.html",
-      "flags": [
-        "Flagship"
-      ],
-      "summary": "Flagship summit of China Arbitration Week focusing on international arbitration in a changing world, strengthening rule of law integration."
-    },
     {
       "id": "EVT-CCD95DEC43",
       "title": "YIAG Fireside Chat and Meet & Mingle in Beijing",
